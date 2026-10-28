@@ -1,0 +1,11 @@
+Review explanation (adapt to the current real build; do NOT paste claims for features that do not work)
+
+TwitchClips is a desktop content preparation tool with an accompanying public website. The public website includes a functioning in-browser local video preview, a caption editor and export tools. It also provides product information, user instructions, support, Terms of Service and Privacy Policy. This submission updates the application branding to use the same icon in the TikTok developer settings and the website/favicon. It also replaces the former basic information page with a complete public site.
+
+In the desktop app, the user [EXPLAIN ACTUAL TWITCH CLIP SELECTION AND VIDEO PREVIEW]. The user explicitly chooses the content and authorizes TikTok using Login Kit. We request user.info.basic to show the authorized TikTok identity. We request [video.upload IF UPLOADING DRAFTS] [video.publish IF DIRECT POST IS IMPLEMENTED AND USED] so the user can [SHOW ACTUAL ACTION]. The user reviews the video/caption/settings and confirms the upload. The app shows the resulting upload/publishing status. No other scopes are used.
+
+Our demonstration video shows: opening the actual desktop application, selecting a clip, user interaction, the complete Login Kit consent flow in Sandbox, the requested scopes, preview/caption, explicit confirmation and the upload/publication result. [ONLY INCLUDE WHEN TRUE]
+
+The app is designed for users who have the necessary rights to publish the source content.
+
+IMPORTANT: Explain why every scope is needed, and remove permissions that your product does not demonstrate.
